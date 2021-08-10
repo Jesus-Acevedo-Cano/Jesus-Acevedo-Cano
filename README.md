@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and improving **Angular and React**
 
-- 👨‍💻 All of my projects are available at [**my github**](https://github.com/Jesus-Acevedo-Cano)
+- 👨‍💻 All of my projects are available at [https://github.com/Jesus-Acevedo-Cano](https://github.com/Jesus-Acevedo-Cano)
 
 
 - ⚡ And why not? **Always smile cause it worth it**
